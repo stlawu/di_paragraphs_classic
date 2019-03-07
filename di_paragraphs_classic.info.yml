@@ -1,0 +1,5 @@
+name: 'Digital Initiatives: Paragraphs Classic'
+type: module
+description: 'Classic paragraphs and shared fields'
+core: 8.x
+package: 'Digital Initiatives'
